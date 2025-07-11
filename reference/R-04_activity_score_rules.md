@@ -4,8 +4,6 @@
 
 #### 1. 計分因子 (Scoring Factors)
 
-我們將在「拜訪紀錄」物件中新增兩個關鍵屬性，皆為下拉選單：
-
 **A. 拜訪方式 (Visit Method) - 代表投入的資源與深度**
 *   **親身拜訪 (In-person Visit):** 4 分
 *   **線上會議 (Conference Call):** 3 分
